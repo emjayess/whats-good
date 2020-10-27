@@ -21,6 +21,9 @@
   * (does one exist??)
 * **Resonance Science Foundation** @ https://www.resonancescience.org/
   * [Academy](https://www.resonancescience.org/academy)
+* **Public Citizen** @ https://www.citizen.org/about/
+  * [Justice & the Courts](https://www.citizen.org/topic/justice-the-courts/)
+  * [Victories](https://www.citizen.org/victories/)
 * **Stand Together** Fdn @ https://standtogether.org/
   * [Why? featuring Charles Koch](https://standtogether.org/why-was-stand-together-created/)
 * **Work for Impact** @ https://www.workforimpact.com/
