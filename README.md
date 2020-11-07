@@ -10,6 +10,8 @@
 * **Center for Humane Technology** @ https://www.humanetech.com/
   * [Ledger of Harms](https://ledger.humanetech.com/)
   * [For Students, Parents, Educators](https://www.humanetech.com/families-educators)
+* **Federation of Humanitarian Technologists** @ https://www.federationof.tech/
+  * [Humanitarian software](https://www.federationof.tech/humanitarian-software)
 * **Earth Species Project** (ESP) @ https://www.earthspecies.org/
   * [ESP on GitHub](https://github.com/earthspecies)
   * [Listen on NPR's Invisibilia](https://www.npr.org/2020/02/25/809336135/two-heartbeats-a-minute)
