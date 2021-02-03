@@ -33,5 +33,5 @@
 * **Democratized (+decentralized) Rideshare**
   * Modeled, implemented: [arcade.city](https://arcade.city/), [eva.coop](https://eva.coop/)
   * https://thereboot.com/cooperative-rideshare-platforms-aim-to-liberate-drivers-from-uber-and-lyft/
-* **Zooniverse** @ https://www.zooniverse.org/projects
+* **Zooniverse** @ https://www.zooniverse.org/
   * [All projects](https://www.zooniverse.org/projects)
