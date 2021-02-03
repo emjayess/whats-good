@@ -29,3 +29,7 @@
 * **Stand Together** Fdn @ https://standtogether.org/
   * [Why? featuring Charles Koch](https://standtogether.org/why-was-stand-together-created/)
 * **Work for Impact** @ https://www.workforimpact.com/
+  *
+* **Democratized (+decentralized) Rideshare
+  * Modeled, implemented: [arcade.city](https://arcade.city/), [eva.coop](https://eva.coop/)
+  * https://thereboot.com/cooperative-rideshare-platforms-aim-to-liberate-drivers-from-uber-and-lyft/
