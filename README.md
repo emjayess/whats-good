@@ -17,6 +17,8 @@
   * [Listen on NPR's Invisibilia](https://www.npr.org/2020/02/25/809336135/two-heartbeats-a-minute)
 * **Earthship Global** @ https://www.earthshipglobal.com/ 
   * [Kid's view of living on Earth](https://earthshipbiotecture.com/kids-view-of-living-on-the-earth/)
+* **Treeware: Software & Sustainability** @ https://treeware.earth/about
+  * in partnership with [Ecologi](https://ecologi.com/) (fka 'offset earth')
 * (?) **hu.ma.ne** @ https://hu.ma.ne/
   * ex-$APPL engineers to launch 'iphone killer'
 * Directory of Forest Schools...
